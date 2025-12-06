@@ -6,11 +6,6 @@
 * 📫 How to reach me **[rdev5174@gmail.com](mailto:rdev5174@gmail.com)**
 * ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add your social links here -->
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Core languages -->
@@ -20,6 +15,17 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+
+  <!-- Jupyter Notebook -->
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
+  </a>
+
   <!-- Engineering & simulation tools -->
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
@@ -33,6 +39,7 @@
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" alt="Illustrator" width="40" height="40"/>
   </a>
+
   <!-- Simulation & analysis tools badges -->
   <img src="https://img.shields.io/badge/LAMMPS-CC0000?style=flat-square.svg" alt="LAMMPS" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Atomsk-444444?style=flat-square.svg" alt="Atomsk" width="40" height="40"/>
