@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Dev</h1>
 <h3 align="center">A passionate Mechanical Engineer from Bangladesh</h3>
 
-* 🔭 I’m currently working on **Nanoindentation**
+* 🔭 I’m currently working on **Nanoindentation, Machine Learning**
 * 🤝 I’m looking for help with **molecular dynamics**
 * 📫 How to reach me **[rdev5174@gmail.com](mailto:rdev5174@gmail.com)**
 * ⚡ Fun fact **I think I am funny**
